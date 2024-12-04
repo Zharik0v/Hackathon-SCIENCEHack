@@ -14,6 +14,11 @@ Creation of a code for predicting the charge of the second electron Q2.
 Creation of a presentation to explain how the code works in case of reaching the final.
 Try to get as high model accuracy as possible on the public and private leaderboard and enter the top 20 participants.
 
+# Case solution is:
+
+Creation of a code to predict the charge of the second electron Q2.
+Creation of a presentation to explain the work of the code in case of reaching the final defense.
+
 # Metric
 
 I use F1-score here. The formula for the standard F1-score is the harmonic mean of the precision and recall. A perfect model has an F-score of 1.
