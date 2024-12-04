@@ -1,6 +1,6 @@
 Hackathon: https://kaggle.com/competitions/sciencehack-for-beginners
 
-# Problem.
+# Problem
 
 Atoms turned out to be far from being the most elementary units. They come in from subatomic particles, and it's not just electrons, neutrons, and protons. These are six more different quarks, neutrinos, a muon and much more. And, probably, there are still undiscovered subatomic particles, the properties of the study are not yet complete.
 
